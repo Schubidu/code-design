@@ -45,8 +45,6 @@ Dann müsst ihr die folgenden Befehle in eine Konsole eingeben
 > Wer nicht weiß was eine Konsole ist, einfach mal Martin fragen oder einen Coach fragen
 
 ```sh
-npm install -g npx
-
 # Erstellen einer neuen React App
 npx create-react-app my-cool-new-app
 
