@@ -33,7 +33,7 @@ Alle Demo Projekte sind gut kommentiert und 'sollten' funktionieren.
  - Zähler Beispiel: [codesandbox.io](https://codesandbox.io/s/l5rl2q53x9)
  - TodoList Beispiel: [codesandbox.io](https://codesandbox.io/s/wooolxx9rl)
  - Advanced TodoList Beispiel: **Noch in Arbeit**
- - CSS mit React JS: **Noch in Arbeit**
+ - CSS mit React JS: [codesandbox.io](https://codesandbox.io/s/qqlqnjm5j6)
 
 ### Mit React JS lokal arbeiten
 
